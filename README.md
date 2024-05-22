@@ -1,6 +1,6 @@
 <!-- Title 타이틀-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=023047&height=300&section=header&text=Welcome%20JiHyun's%20Github%20&fontSize=60&animation=fadeIn&fontColor=ffb703&desc=BackEndDeveloper&descAlign=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=023047&height=300&section=header&text=Welcome%20Kijun0708%20Github%20&fontSize=60&animation=fadeIn&fontColor=ffb703&desc=BackEndDeveloper&descAlign=70" />
 </div>
 
 ##
