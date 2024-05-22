@@ -32,7 +32,6 @@
       <th>DataBase</th>
       <th>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp <!-- Oracle -->
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp <!-- MySQL -->
         <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/> <!-- MariaDB -->
       </th>
     </tr>
@@ -52,7 +51,6 @@
       <th>Devops</th>
       <th>
         <img src="https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>&nbsp <!-- AWS EC2-->
-        <img src="https://img.shields.io/badge/aws%20rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/> <!-- AWS RDS-->
       </th>
     </tr>
     <tr>
@@ -65,30 +63,6 @@
       </th>
     </tr>
   </table>
-
-##
-
-<div align="center">
-  <h2> 🌱Learning</h2>
-    <div>
-    <span>
-      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="vertical-align:middle"/>
-      <span>컨테이너화된 애플리케이션 배포를 위해 학습 중입니다.</span>
-    </span>
-  </div>
-  <div>
-    <span>
-      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" style="vertical-align:middle"/>
-      <span>CI/CD 파이프라인 구축을 위해 학습하고 있습니다.</span>
-    </span>
-  </div>
-  <div>
-    <span>
-      <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" style="vertical-align:middle"/>
-      <span>API 문서화 및 테스트를 효율적으로 하기 위해 배우고 있습니다.</span>
-    </span>
-  </div>
-</div>
 
 ##
 <div align="center">
