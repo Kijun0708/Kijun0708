@@ -59,7 +59,6 @@
   <br>
   <div>
     <a href="mailto:rlwns98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp <!-- gmail -->
-    <a href="https://discordapp.com/users/hyun_e98"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> <!-- discord -->
   </div>
   <br>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kijun0708&layout=donut" />
