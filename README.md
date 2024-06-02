@@ -63,5 +63,5 @@
   <br>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kijun0708&layout=donut" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kijun0708&show_icons=true&theme=default" />
-  <img height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Kijun0708"/>
+  <img height="200px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=Kijun0708"/>
 </div>
