@@ -66,3 +66,8 @@
 </div>
 
 ##
+
+<div aling="center">
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Kijun0708)](https://solved.ac/Kijun0708/)
+
+</div>
